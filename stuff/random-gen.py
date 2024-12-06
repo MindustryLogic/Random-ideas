@@ -1,2 +1,0 @@
-def pwgen():
-    import random
