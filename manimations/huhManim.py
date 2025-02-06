@@ -1,4 +1,4 @@
-#!usr/bin/env python
+
 from manim import *
 #idk
 class HELLO:
