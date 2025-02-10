@@ -1,6 +1,7 @@
 def main():
-    print("Hello from manimations!")
+    print("Hello from badapple!")
 
 
 if __name__ == "__main__":
     main()
+#bruh
